@@ -1,0 +1,5 @@
+name: Elexa
+version: 1.0-ALPHA
+main: elexa.main.Elexa
+author: Lemonbus
+description: Handles reports for a network.
